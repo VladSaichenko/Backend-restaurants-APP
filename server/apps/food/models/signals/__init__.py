@@ -1,0 +1,3 @@
+from .get_restaurant_coordinates import get_restaurant_coordinates
+from .count_average_price import count_average_price
+from .count_total_calories import count_total_calories
